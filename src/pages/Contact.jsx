@@ -15,9 +15,9 @@ export default function Contact() {
             <h1 className="text-3xl md:text-5xl font-extrabold mb-4">Contact Us</h1>
             <p className="opacity-80 mb-6">We’re here to help you get your membership and answer any questions.</p>
           <ul className="space-y-3">
-            <li>📞 <a className="text-primary font-semibold" href="tel:+919999999999">+91 99999 99999</a></li>
-            <li>✉️ <a className="text-primary font-semibold" href="mailto:hello@healthmember.co">hello@healthmember.co</a></li>
-            <li>💬 <a className="text-primary font-semibold" href="https://wa.me/919999999999" target="_blank">WhatsApp Chat</a></li>
+            <li>📞 <a className="text-primary font-semibold" href="tel:+917390958229">+91 73909 58229</a></li>
+            <li>✉️ <a className="text-primary font-semibold" href="mailto:healtheasemembershipprivatelim@gmail.com">healtheasemembershipprivatelim@gmail.com</a></li>
+            <li>💬 <a className="text-primary font-semibold" href="https://wa.me/917390958229" target="_blank">WhatsApp Chat</a></li>
             <li>📍 Lucknow, Uttar Pradesh</li>
           </ul>
 
@@ -33,7 +33,7 @@ export default function Contact() {
           className="bg-white rounded-2xl shadow-lg p-6"
         >
           <div className="text-lg font-semibold mb-3">Quick Message (mailto)</div>
-          <form action="mailto:hello@healthmember.co" method="post" encType="text/plain">
+          <form action="mailto:healtheasemembershipprivatelim@gmail.com" method="post" encType="text/plain">
             <div className="grid gap-4">
               <input className="border rounded-lg px-4 py-3" name="name" placeholder="Your Name" required />
               <input className="border rounded-lg px-4 py-3" name="phone" placeholder="Phone Number" required />

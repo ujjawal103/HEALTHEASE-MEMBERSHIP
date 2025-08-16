@@ -32,8 +32,8 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold mb-3">Contact</h4>
           <ul className="space-y-2 text-sm">
-            <li>📞 <a className="hover:text-blue-500" href="tel:+919999999999">+91 99999 99999</a></li>
-            <li>✉️ <a className="hover:text-blue-500" href="mailto:healthease@gmail.com">healthease@gmail.com</a></li>
+            <li>📞 <a className="hover:text-blue-500" href="tel:+917390958229">+91 73909 58229</a></li>
+            <li>✉️ <a className="hover:text-blue-500" href="mailto:healtheasemembershipprivatelim@gmail.com">healtheasemembershipprivatelim@gmail.com</a></li>
             <li>📍 Lucknow, Uttar Pradesh</li>
           </ul>
         </div>
@@ -44,7 +44,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-slate-700 py-4 text-center text-xs opacity-75">
-        © {new Date().getFullYear()} Healthease Membership. All rights reserved.
+        © {new Date().getFullYear()} Healthease Membership Pvt Ltd. All rights reserved.
       </div>
     </footer>
   );

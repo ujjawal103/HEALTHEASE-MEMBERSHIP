@@ -24,7 +24,7 @@ export default function Home() {
           <h3 className="text-2xl md:text-3xl font-bold">Ready to start saving?</h3>
           <p className="opacity-80 mt-2">Call us now and get your membership card in 1–2 days.</p>
           <div className="mt-6">
-            <a href="tel:+919999999999" className="px-6 py-3 rounded-full bg-primary text-white font-semibold hover:bg-blue-700">📞 Call Now</a>
+            <a href="tel:+917390958229" className="px-6 py-3 rounded-full bg-primary text-white font-semibold hover:bg-blue-700">📞 Call Now</a>
           </div>
         </div>
       </section>

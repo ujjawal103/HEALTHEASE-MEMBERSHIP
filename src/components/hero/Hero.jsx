@@ -24,7 +24,7 @@ export default function Hero() {
           Discounts at partnered medical stores & companies. 24/7 emergency hospital assistance. Fast delivery within 1–2 days.
         </p>
         <div className="mt-8 flex gap-3 justify-center">
-          <a href="tel:+919999999999" className="px-6 py-3 rounded-full bg-primary text-white font-semibold hover:bg-blue-700">
+          <a href="tel:+917390958229" className="px-6 py-3 rounded-full bg-primary text-white font-semibold hover:bg-blue-700">
             📞 Call Now
           </a>
           <a href="/membership" className="px-6 py-3 rounded-full bg-white text-dark font-semibold hover:bg-slate-100">

@@ -40,7 +40,7 @@ export default function Header() {
           <Link to="/membership" className="hover:text-primary">Membership</Link>
           <Link to="/careers" className="hover:text-primary">Careers</Link>
           <Link to="/contact" className="hover:text-primary">Contact</Link>
-          <a href="tel:+919999999999" className="px-4 py-2 rounded-full bg-primary text-white font-semibold hover:bg-blue-700">
+          <a href="tel:+917390958229" className="px-4 py-2 rounded-full bg-primary text-white font-semibold hover:bg-blue-700">
             Call Now
           </a>
         </nav>
@@ -62,7 +62,7 @@ export default function Header() {
             <Link to="/membership">Membership</Link>
             <Link to="/careers">Careers</Link>
             <Link to="/contact">Contact</Link>
-            <a href="tel:+919999999999" className="mt-2 px-4 py-2 rounded-full bg-primary text-white text-center font-semibold">
+            <a href="tel:+917390958229" className="mt-2 px-4 py-2 rounded-full bg-primary text-white text-center font-semibold">
               Call Now
             </a>
           </div>

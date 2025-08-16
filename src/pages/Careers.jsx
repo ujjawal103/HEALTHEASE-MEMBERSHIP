@@ -2,8 +2,8 @@ import { Helmet } from "react-helmet";
 
 export default function Careers() {
   const jobs = [
-    { role: "Field Executive (Lucknow)", type: "Full-time", email: "hr@healthmember.co" },
-    { role: "Partnerships Associate", type: "Full-time", email: "hr@healthmember.co" },
+    { role: "Field Executive (Lucknow)", type: "Full-time", email: "healtheasemembershipprivatelim@gmail.com" },
+    { role: "Partnerships Associate", type: "Full-time", email: "healtheasemembershipprivatelim@gmail.com" },
   ];
 
   return (

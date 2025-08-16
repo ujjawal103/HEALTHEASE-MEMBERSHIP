@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const items = [
-  { q: "What is the yearly fee?", a: "Typically ₹200–₹300 per member. You can update this text anytime." },
+  { q: "What is the yearly fee?", a: "Typically ₹200–₹300 per member." },
   { q: "How fast is delivery?", a: "Cards are usually delivered within 1–2 days after verification." },
   { q: "Which stores accept it?", a: "Partner medical stores and companies in our network. See the Partners section." },
   { q: "Emergency assistance?", a: "Call our helpline and we’ll guide/assist you to the nearest hospital or ambulance." },

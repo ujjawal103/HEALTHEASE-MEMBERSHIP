@@ -29,7 +29,7 @@ export default function Membership() {
               <li>✅ Simple phone-based onboarding</li>
             </ul>
             <div className="mt-8 flex gap-3">
-              <a href="tel:+919999999999" className="px-6 py-3 rounded-full bg-primary text-white font-semibold">📞 Call Now</a>
+              <a href="tel:+917390958229" className="px-6 py-3 rounded-full bg-primary text-white font-semibold">📞 Call Now</a>
               <a href="/contact" className="px-6 py-3 rounded-full bg-slate-100 text-dark font-semibold">Contact Us</a>
             </div>
           </div>

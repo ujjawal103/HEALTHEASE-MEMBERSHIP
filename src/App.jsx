@@ -11,7 +11,6 @@ export default function App() {
   return (
     <Layout>
       <Routes>
-        {/* <div>APPPPPPPPP</div> */}
         <Route path="/" element={<Home/>} />
         <Route path="/about" element={<About/>} />
         <Route path="/contact" element={<Contact/>} />
@@ -20,9 +19,5 @@ export default function App() {
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Layout>
-    // <div className="text-primary">
-    //   <h1 className="text-3xl font-bold">Welcome to the App</h1>
-    //   <p className="text-secondary">This is a sample application using React and Tailwind CSS.</p>
-    // </div>
   );
 }
