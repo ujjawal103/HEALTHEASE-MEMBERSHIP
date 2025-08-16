@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.yourwebsite.com/</loc>
+    <loc>https://healtheasemembership.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.yourwebsite.com/about</loc>
+    <loc>https://healtheasemembership.com/about</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.yourwebsite.com/contact</loc>
+    <loc>https://healtheasemembership.com/contact</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.yourwebsite.com/services</loc>
+    <loc>https://healtheasemembership.com/membership</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.yourwebsite.com/blog</loc>
+    <loc>https://healtheasemembership.com/careers</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

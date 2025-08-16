@@ -10,7 +10,7 @@ export default function SocialIcons({ size = 24 }) {
         <img width={size} height={size} alt="Facebook"
           src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />
       </a>
-      <a className={cls} href="https://wa.me/919999999999" target="_blank" aria-label="WhatsApp">
+      <a className={cls} href="https://wa.me/917390958229" target="_blank" aria-label="WhatsApp">
         <img width={size} height={size} alt="WhatsApp"
           src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
       </a>
