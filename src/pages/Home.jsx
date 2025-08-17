@@ -16,7 +16,7 @@ export default function Home() {
       <Hero />
       <MembershipInfo />
       <HowItWorks />
-      <Companies />
+      {/* <Companies /> */}
       <ReviewsCarousel />
       <FAQ />
       <section className="py-14">

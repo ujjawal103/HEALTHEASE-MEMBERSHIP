@@ -18,7 +18,7 @@ export default function Contact() {
             <li>📞 <a className="text-primary font-semibold" href="tel:+917390958229">+91 73909 58229</a></li>
             <li>✉️ <a className="text-primary font-semibold" href="mailto:healtheasemembershipprivatelim@gmail.com">healtheasemembershipprivatelim@gmail.com</a></li>
             <li>💬 <a className="text-primary font-semibold" href="https://wa.me/917390958229" target="_blank">WhatsApp Chat</a></li>
-            <li>📍 Lucknow, Uttar Pradesh</li>
+            <li>📍Sultanpur, Lucknow, Uttar Pradesh</li>
           </ul>
 
           <div className="mt-6">
@@ -47,7 +47,7 @@ export default function Contact() {
             <iframe
               title="Map"
               className="w-full h-56 rounded-xl"
-              src="https://maps.google.com/maps?q=Lucknow&t=&z=12&ie=UTF8&iwloc=&output=embed"
+              src="https://maps.google.com/maps?q=Sultanpur&t=&z=12&ie=UTF8&iwloc=&output=embed"
               loading="lazy"
             />
           </div>

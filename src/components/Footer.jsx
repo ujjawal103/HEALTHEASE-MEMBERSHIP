@@ -34,7 +34,7 @@ export default function Footer() {
           <ul className="space-y-2 text-sm">
             <li>📞 <a className="hover:text-blue-500" href="tel:+917390958229">+91 73909 58229</a></li>
             <li>✉️ <a className="hover:text-blue-500" href="mailto:healtheasemembershipprivatelim@gmail.com">healtheasemembershipprivatelim@gmail.com</a></li>
-            <li>📍 Lucknow, Uttar Pradesh</li>
+            <li>📍Sultanpur, Lucknow, Uttar Pradesh</li>
           </ul>
         </div>
 

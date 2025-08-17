@@ -7,7 +7,7 @@ const card = (title, text, img) => (
     transition={{ duration: 0.5 }}
     className="bg-white rounded-2xl shadow-lg p-6"
   >
-    <img src={img} alt={title} className="w-full h-40 object-cover rounded-xl mb-4"/>
+    <img src={img} alt={title} className="w-full h-70 object-cover rounded-xl mb-4"/>
     <h3 className="text-xl font-semibold mb-2">{title}</h3>
     <p className="text-sm opacity-80">{text}</p>
   </motion.div>
@@ -25,17 +25,17 @@ export default function MembershipInfo() {
           {card(
             "Up to 30% Discounts",
             "Save on medicines & partner services across our verified network.",
-            "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200"
+            "discount30.png"
           )}
           {card(
             "Emergency Assistance",
             "One call and our team helps you reach the nearest hospital or ambulance.",
-            "https://images.pexels.com/photos/48604/pexels-photo-48604.jpeg"
+            "emergencyAssistence.png"
           )}
           {card(
             "Fast Delivery (1–2 days)",
             "Simple process — share your details and get your card quickly.",
-            "https://images.pexels.com/photos/6169058/pexels-photo-6169058.jpeg"
+            "fastDeliver.png"
           )}
         </div>
       </div>

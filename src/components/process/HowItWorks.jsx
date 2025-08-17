@@ -5,17 +5,17 @@ export default function HowItWorks() {
     {
       title: "Call Us",
       text: "Tap the call button and share your basic details.",
-      img: "https://images.unsplash.com/photo-1529336953121-ad5a0d43d0f6?q=80&w=1200",
+      img: "callUs.png",
     },
     {
       title: "Verification",
       text: "We verify and create your membership record.",
-      img: "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1200",
+      img: "verification.png",
     },
     {
       title: "Get Your Card",
       text: "Receive your card within 1–2 days and start saving instantly.",
-      img: "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?q=80&w=1200",
+      img: "getCard.png",
     },
   ];
 
@@ -36,7 +36,7 @@ export default function HowItWorks() {
               transition={{ duration: 0.5, delay: i * 0.1 }}
               className="bg-white rounded-2xl shadow-lg overflow-hidden"
             >
-              <img src={s.img} alt={s.title} className="w-full h-44 object-cover"/>
+              <img src={s.img} alt={s.title} className="w-full h-70 object-cover"/>
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">{s.title}</h3>
                 <p className="text-sm opacity-80">{s.text}</p>
