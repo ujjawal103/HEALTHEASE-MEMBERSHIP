@@ -4,24 +4,38 @@ import { address } from "framer-motion/client";
 const team = [
   {
     name: "Yogesh Sharma",
-    role: "Founder & Managing Director",
-    img: "yogesh.jpg",
+    role: "Founder & CEO",
+    img: "Yogesh-Sharma.jpeg",
     bio: "Visionary leader with a passion for transforming healthcare delivery.",
     address : "SULTANPUR"
   },
   {
     name: "Vaibhav Sharma",
     role: "Co-Founder",
-    img: "vaibhav.jpg",
+    img: "Vaibhav-Sharma.jpeg",
     bio: "Entrepreneur with a passion for healthcare innovation and technology.",
     address : "SULTANPUR"
   },
   {
     name: "Sanjay Upadhyay",
-    role: "CEO",
-    img: "sanjay.jpg",
+    role: "Director & Business advisor",
+    img: "Sanjay-Upadhyay.jpeg",
     bio: "Transforming healthcare delivery through innovative solutions.",
     address : "SULTANPUR"
+  },
+  {
+    name: "Aalok Kumar Tiwari",
+    role: "HR Head",
+    img: "Aalok-Kumar-Tiwari.jpeg",
+    bio: "Dedicated to building strong teams and fostering a positive workplace culture.",
+    address: "SULTANPUR"
+  },
+  {
+    name: "Prateek tivari",
+    role: "Director",
+    img: "Prateektivari.jpeg",
+    bio: "Committed to driving strategic growth and delivering excellence through effective leadership.",
+    address: "SULTANPUR"
   },
 ];
 
